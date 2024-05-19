@@ -1,5 +1,4 @@
-# Automatic File Organizer
-
+# Python File Download Automator
 This Python script automatically organizes files in the Downloads folder into subdirectories based on their types (e.g., images, videos, music, documents, etc.). It provides a flexible and customizable solution for organizing cluttered Downloads folders, making it easier to find and manage files.
 
 ## Features
